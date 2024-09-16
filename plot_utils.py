@@ -8,7 +8,6 @@ import pdb
 class PlotUtils:
     @staticmethod
     def draw_plots(json_url=None):
-        pdb.set_trace()  
         if json_url is None:
             json_url = "https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.json"
 

@@ -16,7 +16,7 @@ def sample_data():
         'max': [3.0, 3.5, 3.2, 3.8],
         'min': [0.5, 0.8, 0.6, 0.9]
     })
-
+    
 
 @patch('plot_utils.requests.get')
 @patch('plot_utils.pd.read_json')
