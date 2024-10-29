@@ -39,7 +39,7 @@ deviation_analysis/
 │ └── test_plot_creation.py
 │ └── test_plot_utils_extended.py
 │ └── test_profiling.py
-│ └── tests/test_statistics.py
+│ └── test_statistics.py
 ├── scripts/ # Utility scripts
 │ └── analyze_profile.py
 ├── plots/ # Generated plots (gitignored)
