@@ -23,6 +23,8 @@ wheels/
 # Virtual Environment
 venv/
 ENV/
+.gitignore
+.git/
 
 # IDE
 .idea/
