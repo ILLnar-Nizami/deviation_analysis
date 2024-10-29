@@ -1,2 +1,0 @@
-[console_scripts]
-deviation-analysis = src.main:main
